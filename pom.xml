@@ -68,7 +68,7 @@
 
         <maven-jar-plugin.version>3.0.2</maven-jar-plugin.version>
 
-        <log4j.version>2.9.0</log4j.version>
+        <log4j.version>2.12.4</log4j.version>
 
         <groovy.version>2.4.12</groovy.version>
         <groovy-eclipse-batch.version>2.4.3-01</groovy-eclipse-batch.version>
