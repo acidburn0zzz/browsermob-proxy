@@ -77,7 +77,7 @@
         <!-- netty 4.1 version to use for browsermob-dist and when using the netty-4.1 profile -->
         <netty-4.1.version>4.1.15.Final</netty-4.1.version>
 
-        <bouncycastle.version>1.58</bouncycastle.version>
+        <bouncycastle.version>1.70</bouncycastle.version>
     </properties>
 
     <build>
